@@ -1,5 +1,5 @@
 myenv
-env
+.env
 saved_images
 result.csv
 prediction.html
