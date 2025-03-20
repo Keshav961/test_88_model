@@ -176,7 +176,7 @@ st.subheader("📈 Category-Wise Performance")
 
 category_performance = df_results.groupby("Model Prediction")["Match Status"].value_counts().unstack().fillna(0)
 category_performance["Total Images"] = category_performance.sum(axis=1)
-category_performance["Match %"] = (category_performance["✅ Match"] / category_performance["Total Images"]) * 100
+category_performance["Match %"] = (category_performance["✅Match"] / category_performance["Total Images"]) * 100
 
 # ✅ Display the table
 st.dataframe(category_performance.sort_values("Total Images", ascending=False))
