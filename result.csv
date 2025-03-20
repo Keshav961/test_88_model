@@ -1,0 +1,112 @@
+Image Path,Model Prediction,ChatGPT Prediction,Confidence Score,Match Status
+saved_images/002.jpg,BRAKE CALIPER,BRAKE CALIPER,99.99,✅ Match
+saved_images/003.jpg,BRAKE CALIPER,BRAKE CALIPER,99.79,✅ Match
+saved_images/004.jpg,BRAKE CALIPER,BRAKE CALIPER,99.99,✅ Match
+saved_images/005.jpg,THERMOSTAT ASSEMBLY,BRAKE CALIPER,28.69,❌ Mismatch
+saved_images/007.jpg,BRAKE CALIPER,BRAKE CALIPER,100.0,✅ Match
+saved_images/008.jpg,BRAKE CALIPER,BRAKE CALIPER,99.98,✅ Match
+saved_images/009.jpg,BRAKE CALIPER,BRAKE CALIPER,100.0,✅ Match
+saved_images/010.jpg,BRAKE CALIPER,BRAKE CALIPER,100.0,✅ Match
+saved_images/enquiry_6586_image1_WhatsApp_Image_2023-02-04_at_12.52.36.jpg,BULB,ACCELERATOR PEDAL ASSEMBLY,70.45,❌ Mismatch
+saved_images/enquiry_6586_image2_WhatsApp_Image_2023-02-04_at_12.52.44.jpg,BRAKE BOOSTER,ALTERNATOR,43.21,❌ Mismatch
+saved_images/enquiry_10423_image1_WhatsApp_Image_2023-07-29_at_13.41.25.jpg,TAIL LAMP ASSEMBLY - LH,TAIL LAMP ASSEMBLY - RH,65.54,❌ Mismatch
+saved_images/enquiry_15737_image1_WhatsApp_Image_2024-03-29_at_16.52.11_bfb9fc12.jpg,TAIL LAMP ASSEMBLY - RH,TAIL LAMP ASSEMBLY - RH,95.85,✅ Match
+saved_images/download (1).jpg,BONNET,BONNET,100.0,✅ Match
+saved_images/download (2).jpg,BONNET,BONNET,100.0,✅ Match
+saved_images/download (3).jpg,BONNET,BONNET,100.0,✅ Match
+saved_images/download (4).jpg,BONNET,BONNET,100.0,✅ Match
+saved_images/download (6).jpg,BONNET,BONNET,100.0,✅ Match
+saved_images/download (7).jpg,BONNET,BONNET,99.09,✅ Match
+saved_images/download (8).jpg,BONNET,BONNET,99.34,✅ Match
+saved_images/download (9).jpg,BONNET,BONNET,99.99,✅ Match
+saved_images/enquiry_15325_image1_WhatsApp_Image_2024-03-05_at_15.37.41_33a973c9.jpg,ACCELERATOR PEDAL ASSEMBLY,WIPER MOTOR ASSEMBLY,96.22,❌ Mismatch
+saved_images/enquiry_15325_image2_WhatsApp_Image_2024-03-05_at_15.37.42_7f3b75cb.jpg,FRONT SHOCK ABSORBER,WIPER MOTOR ASSEMBLY,81.64,❌ Mismatch
+saved_images/enquiry_15325_image3_WhatsApp_Image_2024-03-05_at_15.37.42_809b91cd.jpg,INJECTOR,STARTER,92.35,❌ Mismatch
+saved_images/enquiry_15460_image2_WhatsApp_Image_2024-03-12_at_15.33.17_b7b1704d.jpg,TAIL LAMP ASSEMBLY - RH,TAIL LAMP ASSEMBLY - RH,99.58,✅ Match
+saved_images/enquiry_15561_image1_WhatsApp_Image_2024-03-18_at_11.19.24_df094d45.jpg,COVER ASSEMBLY,CLUTCH DISC,99.93,❌ Mismatch
+saved_images/enquiry_15569_image2_WhatsApp_Image_2024-03-18_at_12.25.22_7b5f9059.jpg,GLOW PLUG,TAIL LAMP ASSEMBLY - RH,96.35,❌ Mismatch
+saved_images/enquiry_15573_image1_WhatsApp_Image_2024-03-18_at_13.16.02_81884fe7.jpg,INSTRUMENT CLUSTER,INSTRUMENT CLUSTER,72.86,✅ Match
+saved_images/enquiry_15583_image1_WhatsApp_Image_2024-03-18_at_18.35.32_1b7ece95.jpg,INJECTOR,INJECTOR,33.73,✅ Match
+saved_images/enquiry_15632_image2_WhatsApp_Image_2024-03-21_at_14.05.09_9165387f.jpg,FUEL TANK CAP,BRAKE DISC,69.16,❌ Mismatch
+saved_images/enquiry_15640_image1_WhatsApp_Image_2024-03-22_at_11.20.26_91e6a1b4.jpg,INSTRUMENT CLUSTER,FOG LAMP,59.33,❌ Mismatch
+saved_images/enquiry_15697_image1_WhatsApp_Image_2024-03-27_at_15.41.30_ad67cb9c.jpg,SENSOR,SENSOR,99.98,✅ Match
+saved_images/enquiry_15712_image2_WhatsApp_Image_2024-03-28_at_16.19.02_c5e83c44.jpg,POWER WINDOW SWITCH,POWER WINDOW SWITCH,100.0,✅ Match
+saved_images/enquiry_15754_image1_IMG-20240330-WA0010.jpg,ACCELERATOR PEDAL ASSEMBLY,ACCELERATOR PEDAL ASSEMBLY,100.0,✅ Match
+saved_images/enquiry_15754_image4_IMG-20240330-WA0007.jpg,IGNITION COIL,SENSOR,36.96,❌ Mismatch
+saved_images/enquiry_15755_image2_IMG-20240330-WA0009.jpg,ACCELERATOR PEDAL ASSEMBLY,ACCELERATOR PEDAL ASSEMBLY,100.0,✅ Match
+saved_images/enquiry_15757_image1_IMG-20240330-WA0010.jpg,ACCELERATOR PEDAL ASSEMBLY,ACCELERATOR PEDAL ASSEMBLY,100.0,✅ Match
+saved_images/enquiry_15758_image1_IMG-20240330-WA0010.jpg,ACCELERATOR PEDAL ASSEMBLY,ACCELERATOR PEDAL ASSEMBLY,100.0,✅ Match
+saved_images/enquiry_15758_image4_IMG-20240330-WA0007.jpg,IGNITION COIL,SENSOR,36.96,❌ Mismatch
+saved_images/enquiry_15770_image1_WhatsApp_Image_2024-04-01_at_10.51.48_65ae431f.jpg,SPARK PLUG,GLOW PLUG,95.41,❌ Mismatch
+saved_images/enquiry_15782_image8_WhatsApp_Image_2024-04-01_at_15.10.11_c846c6f7.jpg,POWER WINDOW SWITCH,POWER WINDOW SWITCH,100.0,✅ Match
+saved_images/enquiry_15782_image11_WhatsApp_Image_2024-04-01_at_15.10.13_f6a4bd92.jpg,POWER WINDOW SWITCH,POWER WINDOW SWITCH,100.0,✅ Match
+saved_images/enquiry_15838_image2_IMG-20240404-WA0007.jpg,CLUTCH DISC,CLUTCH DISC,64.62,✅ Match
+saved_images/enquiry_15841_image2_IMG-20240404-WA0033.jpg,AC COMPRESSOR,AC COMPRESSOR,99.99,✅ Match
+saved_images/enquiry_15841_image5_IMG-20240404-WA0036.jpg,AC COMPRESSOR,WIPER MOTOR ASSEMBLY,67.5,❌ Mismatch
+saved_images/enquiry_15841_image6_IMG-20240404-WA0037.jpg,AC COMPRESSOR,AC COMPRESSOR,99.19,✅ Match
+saved_images/enquiry_15844_image1_WhatsApp_Image_2024-04-04_at_16.21.48_75d0509d.jpg,WIPER MOTOR ASSEMBLY,STARTER,99.99,❌ Mismatch
+saved_images/enquiry_15950_image3_IMG-20240412-WA0024.jpg,HEAD LIGHT,HEAD LIGHT,100.0,✅ Match
+saved_images/enquiry_15950_image4_IMG-20240412-WA0025.jpg,HEAD LIGHT,HEAD LIGHT,100.0,✅ Match
+saved_images/enquiry_15984_image3_IMG-20240415-WA0033.jpg,COVER ASSEMBLY,BALL JOINT,41.22,❌ Mismatch
+saved_images/enquiry_15984_image4_IMG-20240415-WA0034.jpg,BRAKE DISC,UNKNOWN,36.39,❌ Mismatch
+saved_images/enquiry_16048_image1_WhatsApp_Image_2024-04-18_at_16.17.58_9305340f.jpg,IGNITION CABLE,WIRING HARNESS KIT,58.1,❌ Mismatch
+saved_images/enquiry_16050_image1_WhatsApp_Image_2024-04-18_at_18.13.52_4d08e2a0.jpg,SVM - RH,UNKNOWN,99.95,❌ Mismatch
+saved_images/enquiry_16050_image2_WhatsApp_Image_2024-04-18_at_18.13.52_8765f219.jpg,SVM - RH,TAIL LAMP ASSEMBLY - RH,78.15,❌ Mismatch
+saved_images/enquiry_16236_image5_IMG-20240502-WA0009.jpg,COVER ASSEMBLY,WHEEL ALLOY,98.71,❌ Mismatch
+saved_images/enquiry_16236_image9_IMG-20240502-WA0013.jpg,COVER ASSEMBLY,WHEEL ALLOY,51.03,❌ Mismatch
+saved_images/enquiry_16236_image11_IMG-20240502-WA0015.jpg,BRAKE CALIPER,BONNET,38.65,❌ Mismatch
+saved_images/enquiry_16285_image2_WhatsApp_Image_2024-05-06_at_11.13.10_4319b313.jpg,SVM - LH,UNKNOWN,67.97,❌ Mismatch
+saved_images/enquiry_16285_image3_WhatsApp_Image_2024-05-06_at_11.14.04_e62df0a7.jpg,SVM - RH,HEAD LIGHT,99.85,❌ Mismatch
+saved_images/enquiry_16460_image1_fuel_filter.jpg,OIL FILTER,OIL FILTER,96.6,✅ Match
+saved_images/enquiry_16495_image1_IMG-20240522-WA0003.jpg,AC COMPRESSOR,AC COMPRESSOR,99.92,✅ Match
+saved_images/enquiry_16501_image6_IMG-20240522-WA0018.jpg,SILENCER,BRAKE LINING,88.82,❌ Mismatch
+saved_images/001.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/006.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/011.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/012.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/013.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/014.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/015.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/016.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/017.jpg,BATTERY,BATTERY,99.98,✅ Match
+saved_images/018.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/019.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/020.jpg,BATTERY,BATTERY,100.0,✅ Match
+saved_images/download (11).jpg,JACK,JACK,99.86,✅ Match
+saved_images/images.jpg,JACK,JACK,99.98,✅ Match
+saved_images/images (1).jpg,JACK,JACK,99.9,✅ Match
+saved_images/images (2).jpg,JACK,JACK,98.7,✅ Match
+saved_images/download.png,THROTTLE BODY CLEANER,THROTTLE BODY CLEANER,99.44,✅ Match
+saved_images/images.png,THROTTLE BODY CLEANER,THROTTLE BODY CLEANER,100.0,✅ Match
+saved_images/images (3).jpg,THROTTLE BODY CLEANER,THROTTLE BODY CLEANER,99.85,✅ Match
+saved_images/images (5).jpg,THROTTLE BODY CLEANER,THROTTLE BODY CLEANER,99.98,✅ Match
+saved_images/images (6).jpg,THROTTLE BODY CLEANER,UNKNOWN,88.61,❌ Mismatch
+saved_images/images (7).jpg,SPARK PLUG,THROTTLE BODY CLEANER,99.06,❌ Mismatch
+saved_images/images (8).jpg,THROTTLE BODY CLEANER,THROTTLE BODY CLEANER,99.71,✅ Match
+saved_images/enquiry_18916_image1_WhatsApp_Image_2025-01-03_at_12.37.00_f5175d47.jpg,BATTERY,UNKNOWN,99.87,❌ Mismatch
+saved_images/enquiry_18916_image2_WhatsApp_Image_2025-01-03_at_12.37.14_0d4f55dd.jpg,BATTERY,UNKNOWN,99.92,❌ Mismatch
+saved_images/enquiry_18920_image2_mahindra.jpg,BRAKE PAD,WIPER MOTOR ASSEMBLY,33.74,❌ Mismatch
+saved_images/enquiry_19085_image1_IMG-20250127-WA0008.jpg,HEAD LIGHT,FOG LAMP,99.56,❌ Mismatch
+saved_images/enquiry_19085_image2_IMG-20250127-WA0009.jpg,HEAD LIGHT,HEAD LIGHT,98.67,✅ Match
+saved_images/enquiry_19144_image1_WhatsApp_Image_2025-01-31_at_4.53.34_PM__2_.jpeg,BLOWER MOTOR,TENSIONER,17.96,❌ Mismatch
+saved_images/enquiry_19202_image1_WhatsApp_Image_2025-02-10_at_13.04.44_3fbca41e.jpg,BRAKE DISC,WHEEL ALLOY,36.87,❌ Mismatch
+saved_images/8.png,SENSOR,SENSOR,100.0,✅ Match
+saved_images/10.png,SENSOR,SENSOR,100.0,✅ Match
+saved_images/12.png,SENSOR,THERMOSTAT ASSEMBLY,100.0,❌ Mismatch
+saved_images/14.png,SENSOR,SENSOR,99.47,✅ Match
+saved_images/18.png,SENSOR,SENSOR,100.0,✅ Match
+saved_images/20.png,SENSOR,SENSOR,100.0,✅ Match
+saved_images/22.png,BULB SOCKET,SENSOR,52.23,❌ Mismatch
+saved_images/24.png,SENSOR,SENSOR,99.99,✅ Match
+saved_images/63.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,99.96,✅ Match
+saved_images/64.png,FRONT WHEEL HUB,REAR WHEEL HUB ASSEMBLY,82.32,❌ Mismatch
+saved_images/65.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,87.36,✅ Match
+saved_images/67.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,100.0,✅ Match
+saved_images/69.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,99.97,✅ Match
+saved_images/70.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,100.0,✅ Match
+saved_images/72.png,REAR WHEEL HUB ASSEMBLY,UNKNOWN,96.47,❌ Mismatch
+saved_images/73.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,99.23,✅ Match
+saved_images/75.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,100.0,✅ Match
+saved_images/76.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,99.67,✅ Match
+saved_images/77.png,REAR WHEEL HUB ASSEMBLY,REAR WHEEL HUB ASSEMBLY,100.0,✅ Match
+saved_images/78.png,REAR WHEEL HUB ASSEMBLY,FRONT WHEEL HUB,100.0,❌ Mismatch
