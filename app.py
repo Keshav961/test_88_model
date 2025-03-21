@@ -81,7 +81,7 @@ def chatgpt_predict(image_path):
     base64_image = encode_image(image_path)
 
     response = client.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": f"Identify the car part in the image. Only return the name of the car part from this strict list: {', '.join(CAR_PARTS)}. Do not return any explanation, only the name."},
             {"role": "user", "content": [

@@ -1,2 +1,5 @@
 myenv 
 .env
+saved_images
+prediction.html
+result.csv
